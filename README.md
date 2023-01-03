@@ -9,7 +9,7 @@
 
 ![screen-gif](./assets/jogo-adivinhacao.gif)
 
-Você pode visualizar projeto completo através [DESSE LINK]()
+Você pode visualizar projeto completo através [DESSE LINK](https://sarahvjustino.github.io/jogo-adivinhacao-Explorer/)
 
 ## 🚀 Tecnologias
 
